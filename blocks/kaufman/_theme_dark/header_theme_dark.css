@@ -1,0 +1,6 @@
+.header_theme_dark {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  border: 1px solid transparent;
+}

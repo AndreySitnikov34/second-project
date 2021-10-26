@@ -1,0 +1,8 @@
+.footer__column_content-info {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-inline-start: 0;
+  /* border: 1px solid red; */
+}
